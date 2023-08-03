@@ -2,9 +2,7 @@
 title: "Test markdown"
 author: "Moi"
 date: "2023-08-03"
-output: 
-  html_document: 
-    keep_md: yes
+output: "github_document"
 ---
 
 ```{r setup, include=FALSE}
